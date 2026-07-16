@@ -1,0 +1,2 @@
+APK release belum dibuat karena flutter doctor tidak menemukan Android SDK dan tidak ada Android device/emulator.
+Setelah Android SDK tersedia, jalankan build sesuai README_KONEKSI_SERVER.txt.

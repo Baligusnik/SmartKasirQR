@@ -1,0 +1,33 @@
+DAFTAR SCREENSHOT YANG HARUS DIISI
+
+| No | Nama File | Judul Gambar | Halaman Laporan | Status |
+|---:|---|---|---|---|
+| 1 | 01-login.png | Gambar 7.1 Halaman Login | BAB VII | BELUM DIISI |
+| 2 | 02-home-dashboard.png | Gambar 7.2 Home Dashboard | BAB VII | BELUM DIISI |
+| 3 | 03-products-get.png | Gambar 7.3 Daftar Produk dari GET API | BAB VII | BELUM DIISI |
+| 4 | 04-product-detail.png | Gambar 7.4 Detail Produk | BAB VII | BELUM DIISI |
+| 5 | 05-create-product-form.png | Gambar 7.5 Form Tambah Produk | BAB VII | BELUM DIISI |
+| 6 | 06-create-product-success.png | Gambar 7.6 Produk Berhasil Ditambahkan | BAB VII | BELUM DIISI |
+| 7 | 07-orders-get.png | Gambar 7.7 Daftar Pesanan dari GET API | BAB VII | BELUM DIISI |
+| 8 | 08-order-detail.png | Gambar 7.8 Detail Pesanan | BAB VII | BELUM DIISI |
+| 9 | 09-order-confirm.png | Gambar 7.9 Konfirmasi Pesanan | BAB VII | BELUM DIISI |
+| 10 | 10-order-payment.png | Gambar 7.10 Pembayaran Pesanan | BAB VII | BELUM DIISI |
+| 11 | 11-transactions-get.png | Gambar 7.11 Daftar Transaksi dari GET API | BAB VII | BELUM DIISI |
+| 12 | 12-transaction-detail.png | Gambar 7.12 Detail Transaksi | BAB VII | BELUM DIISI |
+| 13 | 13-create-transaction-form.png | Gambar 7.13 Form Transaksi Kasir | BAB VII | BELUM DIISI |
+| 14 | 14-transaction-success.png | Gambar 7.14 Transaksi Berhasil | BAB VII | BELUM DIISI |
+| 15 | 15-profile-logout.png | Gambar 7.15 Profil dan Logout | BAB VII | BELUM DIISI |
+| 16 | 16-qr-tables.png | Gambar 7.16 Daftar QR Meja | BAB VII | BELUM DIISI |
+| 17 | 17-qr-customer-menu.png | Gambar 7.17 Menu Pelanggan | BAB VII | BELUM DIISI |
+| 18 | 18-qr-order-success.png | Gambar 7.18 Pesanan Pelanggan Berhasil | BAB VII | BELUM DIISI |
+
+Petunjuk pengisian:
+1. Buka DOCX.
+2. Klik placeholder screenshot.
+3. Hapus kotak placeholder.
+4. Pilih Insert -> Pictures.
+5. Pilih screenshot sesuai nama file.
+6. Atur lebar maksimal 14 cm.
+7. Pertahankan caption yang sudah tersedia.
+8. Simpan DOCX.
+9. Konversi ulang menjadi PDF.

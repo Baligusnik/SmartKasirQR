@@ -1,0 +1,9 @@
+PEMERIKSAAN PDF DRAFT
+Jumlah halaman PDF: 10
+Cover terbaca: Ya. Halaman 1 diperiksa manual dan identitas mahasiswa sudah terisi.
+Tabel terbaca: Ya. Halaman tabel pengujian diperiksa ulang setelah perbaikan layout.
+Placeholder screenshot terlihat: Ya. BAB VII memiliki 18 placeholder screenshot.
+Nomor halaman tampil: Ya.
+Render PDF: PDF draft berhasil dirender menjadi 10 PNG menggunakan Poppler pdftoppm.
+Masalah layout: Tidak ditemukan teks utama yang keluar margin pada halaman yang diperiksa manual. Poppler menampilkan warning font Symbol/ArialUnicode saat render, tetapi PNG tetap berhasil dibuat.
+Catatan: screenshot asli belum dimasukkan sehingga PDF masih berstatus DRAFT.

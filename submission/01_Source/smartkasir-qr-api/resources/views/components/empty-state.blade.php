@@ -1,0 +1,6 @@
+@props(['title', 'message'])
+
+<section class="empty-state">
+    <h2>{{ $title }}</h2>
+    <p>{{ $message }}</p>
+</section>

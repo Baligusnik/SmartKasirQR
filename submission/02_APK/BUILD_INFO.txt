@@ -1,0 +1,12 @@
+Nama aplikasi: SmartKasir QR
+Application ID: com.gusnik.smartkasirqr
+Version name: 1.0.0
+Version code: 1
+Flutter version: 3.35.6
+Dart version: 3.9.2
+Tanggal audit: 16 July 2026
+Build mode: release belum dibuat
+API base URL rencana emulator: http://10.0.2.2:8000/api
+Device pengujian: belum tersedia
+SHA-256 APK: belum tersedia
+Catatan: backend Laravel harus aktif saat aplikasi digunakan.
