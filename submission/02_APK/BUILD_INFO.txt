@@ -5,8 +5,11 @@ Version code: 1
 Flutter version: 3.35.6
 Dart version: 3.9.2
 Tanggal audit: 16 July 2026
-Build mode: release belum dibuat
-API base URL rencana emulator: http://10.0.2.2:8000/api
+Tanggal build APK: 17 July 2026
+Build mode: release
+Nama file APK: SmartKasirQR-release.apk
+Ukuran APK: 51,746,063 bytes
+API base URL APK: http://192.168.1.3:8000/api
 Device pengujian: belum tersedia
-SHA-256 APK: belum tersedia
+SHA-256 APK: 0B13D78D54D898252DC5AD995EE09796FD4C7C30960A34B9566A2C0B10BFB4ED
 Catatan: backend Laravel harus aktif saat aplikasi digunakan.

@@ -1,2 +1,10 @@
-APK release belum dibuat karena flutter doctor tidak menemukan Android SDK dan tidak ada Android device/emulator.
-Setelah Android SDK tersedia, jalankan build sesuai README_KONEKSI_SERVER.txt.
+APK release sudah berhasil dibuat pada 17 July 2026.
+
+Nama file:
+SmartKasirQR-release.apk
+
+Lokasi:
+C:\SmartKasirQR\submission\02_APK\SmartKasirQR-release.apk
+
+Catatan:
+APK dibuat dengan API_BASE_URL=http://192.168.1.3:8000/api untuk pengujian HP fisik pada jaringan Wi-Fi yang sama dengan laptop.
