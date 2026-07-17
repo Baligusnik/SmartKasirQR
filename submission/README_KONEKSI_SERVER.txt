@@ -18,5 +18,27 @@ Akun demo:
 Email: kasir@smartkasir.test
 Password: password
 
+APK release:
+C:\SmartKasirQR\submission\02_APK\SmartKasirQR-release.apk
+
+API base URL APK yang sudah dibuat:
+http://192.168.1.3:8000/api
+
+Jika IP komputer berubah, build ulang APK:
+cd C:\SmartKasirQR\smartkasir-qr-mobile
+flutter build apk --release --dart-define=API_BASE_URL=http://IPV4-KOMPUTER:8000/api
+
+Website QR meja:
+http://127.0.0.1:8000/qr/tables
+Untuk HP satu jaringan:
+http://IPV4-KOMPUTER:8000/qr/tables
+
+Tata cara penggunaan ringkas:
+1. Jalankan Laravel.
+2. Buka Flutter web atau install APK.
+3. Login dengan akun demo.
+4. Kelola Produk, Pesanan, dan Transaksi dari aplikasi kasir.
+5. Pelanggan membuka website QR meja untuk memilih menu dan mengirim pesanan.
+
 Catatan: Windows Firewall harus mengizinkan php.exe menerima koneksi lokal.
 HTTP cleartext hanya untuk demo lokal. Deployment publik sebaiknya memakai HTTPS.
