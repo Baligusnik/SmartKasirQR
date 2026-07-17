@@ -1,2 +1,0 @@
-Screenshot APK Android release belum tersedia karena Android SDK/device belum tersedia.
-Screenshot website QR dapat diambil dari browser setelah server Laravel aktif.

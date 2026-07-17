@@ -12,8 +12,8 @@ SmartKasir QR adalah aplikasi kasir Flutter yang terhubung dengan REST API Larav
 Struktur:
 01_Source: source Flutter dan Laravel bersih
 02_APK: APK release jika Android SDK/device sudah tersedia
-03_Laporan: DOCX/PDF laporan UAS
-04_Screenshot: screenshot aktual
+03_Laporan: dikosongkan dari repository GitHub sesuai permintaan
+04_Screenshot: dikosongkan dari repository GitHub sesuai permintaan
 05_Dokumentasi_API: dokumentasi endpoint
 
 Akun demo:
