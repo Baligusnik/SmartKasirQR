@@ -17,7 +17,7 @@
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
 **/.phpunit.result.cache
+tmp/
 
 **/.idea/
 **/*.iml
-
